@@ -75,7 +75,7 @@ The Test Plan is designed to describe all details of testing for all the modules
 
 ### Test Analysis
 The test conditions will be created after the business requirements will be analyzed.
-**Test Conditions:** (To be filled)
+**Test Conditions:** can be found [here](https://itfclasses.atlassian.net/projects/SCTT?selectedItem=com.thed.zephyr.je__cycle-summary)
 
 ### Test Design
 - API test cases will be written in Postman
