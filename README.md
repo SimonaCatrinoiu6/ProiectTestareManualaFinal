@@ -98,7 +98,7 @@ The following is a summary of the bugs that have been found: [here](https://itfc
 
 ### Test Closure
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
-The traceability matrix was generated and can be found [here](link_here).
+The traceability matrix was generated and can be found [here](https://itfclasses.atlassian.net/projects/SCTT?selectedItem=com.thed.zephyr.je__traceability-project-level).
 Test execution chart was generated and can be found below.
 The final report shows that a number of 2 tests have failed of a total of 12. A number of 2 total bugs were found, from which the priority is: 1 is high and 1 is medium.
 
