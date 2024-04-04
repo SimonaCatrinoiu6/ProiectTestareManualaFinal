@@ -94,7 +94,7 @@ Before the test cases are executed, I need to check that:
 - Bug reports are created when needed.
 Test cases are executed on the created test Cycle summary TestCycle1.
 Bugs have been created based on the failed tests.
-The following is a summary of the bugs that have been found: (To be filled)
+The following is a summary of the bugs that have been found: [here](https://itfclasses.atlassian.net/jira/software/c/projects/SCTT/boards/167/timeline?issueType=10004)
 
 ### Test Closure
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team.
