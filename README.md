@@ -33,7 +33,9 @@ The scope of this project for ITFactory Manual and Automation Testing Course is 
 **Functional Specifications:**
 The below stories were created in Jira and describe the functional specifications of the login module, for which the final project is performed upon. 
 
-![image](https://github.com/SimonaCatrinoiu6/ProiectTestareManualaFinal/assets/151835715/9dbe3b04-745d-4613-afb6-16d98b7f7293)
+![image](https://github.com/SimonaCatrinoiu6/ProiectTestareManualaFinal/assets/151835715/fb526e3f-cc10-4f34-afd3-cdec8da51384)
+
+![image](https://github.com/SimonaCatrinoiu6/ProiectTestareManualaFinal/assets/151835715/2bf71d7f-1517-40e7-ab43-0783afe53746)
 
 
 ### Functionalities in Scope
