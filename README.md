@@ -1,6 +1,7 @@
 # ProiectTestareManualaFinal
 # Testing Project
 **Application under test:** www.elefant.ro
+
 **Date:** 20.03.2024  
 **Author:** Catrinoiu Gabriela Simona  
 
